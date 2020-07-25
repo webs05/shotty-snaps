@@ -12,6 +12,6 @@ Then...
 
 ```
 pipenv install
-pipenv run "python /scripts/test.py"
+pipenv run python scripts/test.py
 ```
 
